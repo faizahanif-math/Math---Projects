@@ -1,45 +1,117 @@
-# AI Study Hub
+# 🤖 AI Study Hub
 
-Developed by: Faiza Hanif
+<p align="center">
 
-## About This Project
+# 🌟 AI Study Hub
 
-AI Study Hub is a Python-based student productivity and portfolio project.
+A modern Python + Web Development project created by **Faiza Hanif**.
 
-## Features
+Learning Python • AI • Machine Learning • Web Development
 
-- Smart Calculator
-- CGPA Calculator
-- Study Planner
-- AI Assistant
-- Personal Portfolio Website
+</p>
 
-## Technologies Used
+---
+
+## 📖 About Project
+
+AI Study Hub is a learning platform developed using Python and Web technologies.
+
+This project helps students perform useful academic tasks from one place.
+
+---
+
+## ✨ Features
+
+✅ Student Dashboard
+
+✅ CGPA Calculator
+
+✅ Smart Calculator
+
+✅ AI Assistant
+
+✅ Study Planner
+
+✅ Responsive Website
+
+---
+
+## 🛠 Technologies
 
 - Python
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Git & GitHub
+- Git
+- GitHub
 - VS Code
 
-## My Skills
+---
 
-- Python Programming
+## 📂 Project Structure
+
+```
+AI_Study_Hub/
+│
+├── index.html
+├── style.css
+├── script.js
+├── main.py
+├── student_dashboard.py
+├── ai_assistant.py
+├── cgpa_calculator.py
+├── smart_calculator.py
+├── study_planner.py
+├── images/
+│   ├── homepage.png
+│   └── secondpage.png
+└── README.md
+```
+
+---
+
+# 📸 Project Preview
+
+## 🏠 Home Page
+
+![Home Page](images/homepage.png)
+
+## 📊 Second Page
+
+![Second Page](images/secondpage.png)
+
+---
+
+## 🎯 Future Improvements
+
+- AI Chatbot
+- Voice Assistant
+- Login System
+- Database Integration
+- Machine Learning Models
+- Data Visualization
+- Mobile App Version
+
+---
+
+## 👩‍💻 Developer
+
+**Faiza Hanif**
+
+BS Mathematics Student
+
+Learning:
+
+- Python
 - Artificial Intelligence
+- Machine Learning
+- Data Science
 - Web Development
-- Mathematics
-- Problem Solving
 
-## Future Goals
+---
 
-- Become an AI Engineer.
-- Become a Software Developer.
-- Build real-world AI projects.
-- Study abroad on a fully funded scholarship.
+## ⭐ Support
 
-## Project Status
+If you like this project, please give it a ⭐ on GitHub.
 
-This project is currently under development and will continue to improve with new AI and software development features.
-
-Thank you for visiting my project!
+Thank you for visiting my repository!
