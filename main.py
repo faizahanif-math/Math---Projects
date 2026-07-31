@@ -1,28 +1,32 @@
-import os
+print("========== AI STUDY HUB ==========")
 
-print("====== AI STUDY HUB ======")
 print("1. Smart Calculator")
 print("2. CGPA Calculator")
 print("3. Study Planner")
 print("4. AI Assistant")
 print("5. My Website")
+print("6. Student Dashboard")
 
-choice = input("Select an option (1-5): ")
+choice = input("\nEnter your choice (1-6): ")
 
 if choice == "1":
-    os.system("python smart_calculator.py")
+    import smart_calculator
 
 elif choice == "2":
-    os.system("python cgpa_calculator.py")
+    import cgpa_calculator
 
 elif choice == "3":
-    os.system("python study_planner.py")
+    import study_planner
 
 elif choice == "4":
-    os.system("python ai_assistant.py")
+    import ai_assistant
 
 elif choice == "5":
-    print("Opening Website...")
+    print("\nWebsite Link:")
+    print("https://YOUR_USERNAME.github.io/Math---Projects/")
+
+elif choice == "6":
+    import student_dashboard
 
 else:
-    print("Invalid option!")
+    print("\nInvalid Option!")
