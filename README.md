@@ -115,3 +115,43 @@ Learning:
 If you like this project, please give it a ⭐ on GitHub.
 
 Thank you for visiting my repository!
+# 🧠 Project 2 - AI Quiz Generator
+
+## 📌 Description
+
+AI Quiz Generator is a Python-based quiz application that allows users to test their knowledge in different subjects.
+
+### ✨ Features
+
+- 📚 Mathematics Quiz
+- 📖 English Quiz
+- 🔬 Science Quiz
+- 📊 Automatic Score Calculation
+- 📈 Percentage
+- 🏆 Grade System
+- 💡 Motivational Message
+- 🔄 Easy-to-use Menu
+
+---
+
+## 📸 Project Screenshots
+
+### Main Menu
+
+![Quiz Homepage](quiz_homepage.png)
+
+### Quiz Result
+
+![Quiz Result](quiz_result.png)
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- GitHub
+- VS Code
+
+---
+
+More AI and Python projects will be added soon. 🚀
